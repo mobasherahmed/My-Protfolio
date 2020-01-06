@@ -1,0 +1,62 @@
+<div class="about">
+                            <div class="container">
+                                <div class="row">
+                                    <div  style="background-color: #0000007a;">
+                                        <div class="title">
+                                            <h2 class="pl-1"
+                                                style="box-shadow: 5px 9px 7px #3a4a5d;text-align: center;">
+                                                ABOUT </h2>
+                                        </div>
+
+                                        <div class="info wow bounceInLeft" data-wow-delay="2s" data-wow-duration="3s">
+                                            <p>Iam Ahmed Hassan Mobasher graduated from faculty of Computer & Information Zag Un. 
+                                                self-motivated web developer with a creative eye for design, Proficient at
+                                                crafting projects from beginning to end, Always interested in creative &
+                                                refreshing ideas , has the ability to work Individual
+                                                or with team, Good researcher for
+                                                problems solving . Willing to have
+                                                an opportunity to prove my skills and
+                                                develop it. </p>
+
+                                        </div>
+                                        <button class="btn btn-primary mb-3 wow bounceInRight" data-wow-duration="2s"
+                                            data-wow-delay="2s"><a href="#portfolio"
+                                                style="color: white !important;">Take A Look <i
+                                                    class="far fa-laugh-beam"></i></a></button>
+                                    </div>
+
+                                    <div >
+                                        <div class="personal pt-4">
+
+                                            <h2 style="box-shadow: 5px 9px 7px #3a4a5d;text-align: center;">Personal
+                                                Information</h2>
+
+                                            <ul>
+                                                <li><span>Full Name :</span><span>Ahmed Hassan Mobasher</span></li>
+                                                <li><span>Address :</span><span>Naser City,Cairo,Egypt</span></li>
+                                                <li><span>Nationality :</span><span>Egyptian</span></li>
+                                                <li><span>Date Of Birth :</span><span>1 / 10 / 1995</span></li>
+                                                <li><span>Education :</span><span>Bachelor's Degree in Computer <br>&
+                                                        Informatics
+                                                        Zagazig University</span></li>
+                                                <li><span>Graduation Year :</span><span>7 / 2017</span></li>
+                                                <li><span>Military Status :</span><span>Completed(1/2018 -
+                                                        3/2019)</span></li>
+                                                <li><span>Phone :</span><span>+20-01002883308</span></li>
+                                                <li><span>Email :</span><span id="email">
+                                                        <a href="http://mailto:ahmedmobasher00@gmail.com"
+                                                            target="_blank" rel="noopener noreferrer">
+                                                            ahmedmobasher00@gmail.com</a></span>
+                                                </li>
+                                            </ul>
+                                        </div>
+
+                                    </div>
+                                    
+                                </div>
+                            </div>
+
+
+
+
+                        </div>
